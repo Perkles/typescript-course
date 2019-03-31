@@ -4,7 +4,6 @@ class Negociacao {
         this._quantidade = _quantidade;
         this._valor = _valor;
     }
-    ;
     get data() {
         return this._data;
     }
